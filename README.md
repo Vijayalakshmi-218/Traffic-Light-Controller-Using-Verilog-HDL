@@ -85,6 +85,9 @@ module traffic_light_controller (
     end
 endmodule
 
+![Screenshot 2024-10-05 163154](https://github.com/user-attachments/assets/6ec6597c-acb4-4eda-898e-9d04fe4978ea)
+
+
 Testbench for Traffic Light Controller
 
 // traffic_light_controller_tb.v
@@ -128,6 +131,8 @@ module traffic_light_controller_tb;
     end
 
 endmodule
+
+![Screenshot 2024-10-05 163804](https://github.com/user-attachments/assets/4a485a05-40de-4d0c-b5e7-37ec4f33c1e3)
 
 
 Conclusion
